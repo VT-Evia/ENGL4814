@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Embedding Markdowns from Another Repository"
+title: "Embedding The Markdowns from Another Repository"
 ---
 
 <div id="markdown-content"></div>
