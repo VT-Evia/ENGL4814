@@ -1,6 +1,10 @@
 ---
 layout: post
-title: ""
-categories: Miscellaneous
+title: "Embedding Markdown from Another Repository"
 ---
-Sometimes, your post just stands for itself and doesn't need a title. And that's fine, too!
+
+<h1>Embedding Markdown from Another Repository</h1>
+
+<div id="markdown-content">Loading content...</div>
+
+<script src="/assets/js/embedMarkdown.js"></script>
